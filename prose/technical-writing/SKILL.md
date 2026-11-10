@@ -1,6 +1,6 @@
 ---
 name: technical-writing
-description: Load before you write prose that a person will read: a README, design doc, PR description, skill, ticket, code comment or docstring. It sets a plain-writing standard based on ASD-STE100. Do not use it for code or an agent's own notes.
+description: "Load before you write prose that a person will read: a README, design doc, PR description, skill, ticket, code comment or docstring. It sets a plain-writing standard based on ASD-STE100. Do not use it for code or an agent's own notes."
 ---
 
 # Technical Writing
